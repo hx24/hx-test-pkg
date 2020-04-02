@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ClickBox from './components/ClickBox'
+import { ClickBox } from './components'
 
 export default class extends Component {
   render() {
